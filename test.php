@@ -7,6 +7,7 @@ body {
   font-family: "Lato", sans-serif;
 }
 
+
 .sidebar {
   height: 100%;
   width: 0;
